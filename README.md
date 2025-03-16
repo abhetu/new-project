@@ -1,4 +1,3 @@
 # new-project
 New Project Setup
-The idea for a new project coming up soon
-
+I have been brainstorming a lot for a new idea for a new project.
